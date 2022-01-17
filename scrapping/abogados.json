@@ -1,0 +1,162 @@
+[
+ {
+   "nro": 1,
+   "matricula": "17-2008-2",
+   "nombres": "TAPIA ANGULO ENRIQUE OMAR",
+   "direccion": "LA CONCORDIA ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 2,
+   "matricula": "17-2009-1",
+   "nombres": "GRIJALVA PARRA CARLOS RAMIRO",
+   "direccion": "BELAVISTA OE-326 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 3,
+   "matricula": "17-2009-2",
+   "nombres": "NIETO CABRERA ANA BELEN",
+   "direccion": "DE LOS RIACHUELOS LOTE S/N URB. FAGATO CASA 12 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 4,
+   "matricula": "17-2009-3",
+   "nombres": "ZAPATA YÃNEZ ANDREA LORENA",
+   "direccion": "MARISCAL SUCRE Y FRANCISCO LOPEZ BLOQ.39 DEP.1B ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 5,
+   "matricula": "17-2009-4",
+   "nombres": "CEVALLOS BOLAÃ‘OS MARIA ELIZABETH",
+   "direccion": "VICENTE PIEDRAHITA ED. REG. DE LA PROPIEDAD 4TO PISO OFIC. 406 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 6,
+   "matricula": "17-2009-5",
+   "nombres": "CASTRO CHAMORRO MARLENE NOHEMI",
+   "direccion": "CAUPICHO SECTOR GUAMANI MZ-. 70 LT. 1039 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 7,
+   "matricula": "17-2009-6",
+   "nombres": "AUZ ZAMORA MANUEL MESIAS",
+   "direccion": "10 DE AGOSTO Y RIOFRIO EDIF. BENALCAZAR MILPISO 10 OFIC. 1010 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 8,
+   "matricula": "17-2009-7",
+   "nombres": "CAJO SAMANIEGO IVAN URGENCIO",
+   "direccion": "CDELA. DEL EJERCITO CALLE P Y Q CASA 756 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 9,
+   "matricula": "17-2009-8",
+   "nombres": "OSEJO CABEZAS ROSA ANGELA",
+   "direccion": "VILLA FLORA DIEGO DE SANDOVAL OE 220 Y PEDRO DE ALFARO ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 10,
+   "matricula": "17-2009-9",
+   "nombres": "LOPEZ ORQUERA MARIA JUDITH",
+   "direccion": "SANTA PRISCA Y PASAJE IBARRA EDF. GOMEZ OF. 201 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 11,
+   "matricula": "17-2009-10",
+   "nombres": "COLOMA VALLEJO HANS WILLIAM",
+   "direccion": "LOS MOLLES N49-44 Y OLIVOS ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 12,
+   "matricula": "17-2009-11",
+   "nombres": "LUDEÃ‘A PINEDA KARINA VANESA",
+   "direccion": "SOLANDA GASPAR ESPARZA S19-07 Y SIMON GUERRA ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 13,
+   "matricula": "17-2009-12",
+   "nombres": "ALULEMA VARGAS GLADYS DEL",
+   "direccion": "PILAR SANTA PRISCA EDIFICIO ALAMEDA N.- 304A ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 14,
+   "matricula": "17-2009-13",
+   "nombres": "ANDRADE JARAMILLO EDUARDO ALBERTO",
+   "direccion": "MANUEL ROMO N3810 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 15,
+   "matricula": "17-2009-405",
+   "nombres": "SANGO YAR FANNY GRACIELA",
+   "direccion": "AV. 10 DE AGOSTO 587 Y CHECA ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 16,
+   "matricula": "17-2010-1",
+   "nombres": "ROBALINO ORELLANA DANIEL ESTEBAN",
+   "direccion": "AV. ELOY ALFARO N34 - 118 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 17,
+   "matricula": "17-2010-2",
+   "nombres": "AGUIRRE SALGADO CARLOS IVAN",
+   "direccion": "GUAYAQUIL N7-08 Y OLMEDO ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 18,
+   "matricula": "17-2010-3",
+   "nombres": "FREIRE GAVILANES VERONICA PAULINA",
+   "direccion": "URB. JARDINES DEL PICHINCHA PASAJE B N63 - 213 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 19,
+   "matricula": "17-2010-4",
+   "nombres": "DONOSO MALDONADO PAULA GABRIELA",
+   "direccion": "URB. EL CONDADO CALLE C OES - 144 ",
+   "credencial": "Si",
+   "estado": "Validado"
+ },
+ {
+   "nro": 20,
+   "matricula": "17-2008-1",
+   "nombres": "OJEDA OJEDA CARLOS EDUARDO",
+   "direccion": "VIA A QUEVEDO KM1 Y PEDRO VICENTE MALDONADO ",
+   "credencial": "Si",
+   "estado": "Validado"
+ }
+]
