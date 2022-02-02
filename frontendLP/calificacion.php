@@ -20,10 +20,8 @@
     
     $puntuacion = $_POST["radio"];
     $mensaje = $_POST["mensaje"];
-    
-        
-    if($puntuacion =! null && $mensaje != null){
-        
+
+    if($puntuacion != null && $mensaje != null){
         $post_data = ["where" => $id, "fields" => [["comentario" => $mensaje],["puntuacion" => intval($puntuacion)]]];
         curl_setopt_array($curl, array(
         CURLOPT_URL => 'http://localhost/backendLP/rest_resource_update.php',
@@ -49,7 +47,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="styles.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="styles.css?v=<?php echo time(); ?>">
     <title>Document</title>
 </head>
 <body>
@@ -63,24 +61,28 @@
             <h4>Nombres: </h4>
             <h5><?= $nombres ?></h5>
         </div>
-        <div class="align-horiz">
-            <h4>Puntuación</h4>
+        <div class="">
+            
             <form method="POST">
-                <input type='radio' name='radio' value='1' checked/>1
-                <input type='radio' name='radio' value='2'/>2
-                <input type='radio' name='radio' value='3'/>3
-                <input type='radio' name='radio' value='4'/>4
-                <input type='radio' name='radio' value='5'/>5</br>
-            </form>
-        </div>
-        <div class="align-horiz">
-            <h4>Comentario</h4>
-            <form method="POST">
-                <p><textarea name="mensaje" cols="40" rows="5" placeholder="Agrega un comentario breve"></textarea></p>
+                <div class="align-horiz">
+                    <h4>Puntuación</h4>
+                    <div class="container-puntuacion">
+                        <input type='radio' name='radio' value='1' checked/>1
+                        <input type='radio' name='radio' value='2'/>2
+                        <input type='radio' name='radio' value='3'/>3
+                        <input type='radio' name='radio' value='4'/>4
+                        <input type='radio' name='radio' value='5'/>5</br>
+                    </div>
+                </div>
+                <div class="align-horiz">
+                    <h4>Comentario</h4>
+                    <p><textarea name="mensaje" cols="100" rows="4" placeholder="Agrega un comentario breve"></textarea></p>
+                </div>  
                 <div class="cont-btn">
                     <p><input class="boton-env" type="submit" value="Enviar" name="result"></p>
-                    
+                        
                 </div>
+                  
             </form>
         </div>
         <button  class="boton-reg" onclick="location.href='principal.php'">Regresar</button>

@@ -37,7 +37,7 @@
 
     $update = new MongoDB\Driver\BulkWrite();
     $update->update(
-        ['_id' => new MongoDB\BSON\ObjectId($id)], ['$set' => $set_values], ['multi' => false, 'upsert' => false]
+        ['nro' => $id], ['$set' => $set_values], ['multi' => false, 'upsert' => false]
     );
 
     $result = $conn->executeBulkWrite("$dbname.$collection", $update);
